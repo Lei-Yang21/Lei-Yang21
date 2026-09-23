@@ -14,7 +14,7 @@ Here you'll find my master's thesis work, university projects, and experiments, 
 - **Language models & knowledge representation**: exploring how small language models can interpret tables and link their contents to Wikidata.
 - **Computer vision & algorithms**: working with images and algorithms that classify or describe them.
 
-## Featured project: SemTab
+## Master Thesis: SemTab
 
 ### [The Role of Small Language Models in Web Table Interpretation](https://github.com/Lei-Yang21/SemTab)
 
