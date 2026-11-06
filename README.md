@@ -28,6 +28,7 @@ The [SemTab README](https://github.com/Lei-Yang21/SemTab#readme) covers the proj
 
 | Project | What you'll find | Area |
 | --- | --- | --- |
+| [Belgium Railway](https://github.com/Lei-Yang21/Belgium-Railway) | Data modeling and PostgreSQL/PostGIS database design, deployed with Docker. Reduced the punctuality dataset from **37 GB to 21 GB (≈43%)** by encoding string values as integer IDs. Analysis and prediction of train delays using weather, calendar and geospatial data, including delay propagation across stops. | Data engineering & machine learning |
 | [Fake or Proof](https://github.com/Lei-Yang21/Fake-or-Proof) · [Live demo](https://fakeorproof-streamlit-ffck35mifa-ew.a.run.app) | Streamlit application using MobileNetV2 to estimate whether an image is AI-generated or real, with GradCAM visualizations. Deployed on Google Cloud Run with a Vertex AI training pipeline. | Computer vision & cloud deployment |
 | [Taxi Destination Prediction](https://github.com/Lei-Yang21/predict-taxi) | Data preparation and comparison of classical models and an LSTM to predict taxi trip destinations. | Machine learning |
 | [Image Classifier](https://github.com/Lei-Yang21/Image-classifier) | Sketch classification using nearest neighbours and Dynamic Time Warping, implemented in C. Built with [Simon Gardier](https://github.com/simon-gardier). | Computer vision & algorithms |
